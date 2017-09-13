@@ -1,3 +1,9 @@
+/** 
+* Copyright (c) 2003 by Sean Luke. <br>
+ * Portions copyright (c) 1993 by Michael Lecuyer. <br>
+ * All rights reserved. <br>
+ **/
+
 package ec.util;
 import java.io.*;
 import java.util.*;
